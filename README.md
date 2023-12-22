@@ -1,6 +1,6 @@
 # Correlation and regression for data analysis
 # NAME:PRASHANTH.K
-# REFERENCE NUMBER:212223230152
+# REGISTER NUMBER:212223230152
 # Aim : 
 
 To analyse given data using coeffificient of correlation and regression line
